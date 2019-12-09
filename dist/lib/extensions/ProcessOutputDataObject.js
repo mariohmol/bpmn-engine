@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 module.exports = function ProcessOutputDataObject(dataObjectDef, _ref) {
   var {
