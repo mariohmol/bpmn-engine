@@ -8,6 +8,10 @@ bpmn-engine
 ## Introduction
 BPMN 2.0 execution engine. Open source javascript workflow engine.
 
+```bash
+npm i bpmn-engine-ts
+```
+
 ## Table of Contents
 - [Supported elements](#supported-elements)
 - [Process modeller](#process-modeller)
