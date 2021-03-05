@@ -78,7 +78,7 @@
     "unnecessary": "^1.3.4"
   },
   "dependencies": {
-    "bpmn-elements": "^0.12.1",
+    "bpmn-elements": "^0.13.1",
     "bpmn-moddle": "^6.0.0",
     "camunda-bpmn-moddle": "^4.3.0",
     "debug": "^4.1.1",
