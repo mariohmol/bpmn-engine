@@ -82,7 +82,7 @@
     "bpmn-moddle": "^6.0.0",
     "camunda-bpmn-moddle": "^4.3.0",
     "debug": "^4.1.1",
-    "moddle-context-serializer": "^0.13.0",
+    "moddle-context-serializer": "^0.16.1",
     "smqp": "^1.11.1"
   }
 }
